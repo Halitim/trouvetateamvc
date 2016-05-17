@@ -22,7 +22,7 @@
           
          <p> 
          
-			<?php include("groupe_profild.php")?>
+			<?php include("groupe_profild.php")?> 
 		 </p>
 			  </div> 
        
